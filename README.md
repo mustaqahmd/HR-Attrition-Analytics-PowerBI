@@ -1,5 +1,3 @@
-# HR-Attrition-Analytics-PowerBI
-
 # HR Dashboard Analytics using Power BI
 
 This project analyzes employee attrition data to uncover key insights around turnover trends, department-wise breakdown, gender disparity, education impact, and more.
@@ -22,10 +20,6 @@ This project analyzes employee attrition data to uncover key insights around tur
 - Bar, Donut, Treemap, Line Charts
 - Department-wise & JobRole-wise Attrition
 - Gender, Education, Years at Company Analysis
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](./Dashboard_Screenshot.png)
 
 ## 🧠 Objective
 To provide an HR analytics solution that helps understand attrition trends and support data-driven retention strategies.
